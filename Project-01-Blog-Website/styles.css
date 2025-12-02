@@ -1,0 +1,114 @@
+:root{
+  --brand-green: #39a54a;   
+  --text-dark: #222;
+  --muted: #666;
+  --border: #1f1f1f;
+  --footer-bg: #333;
+  --max-width: 760px;
+}
+
+/* A light normalize */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html,body { height: 100%; }
+body {
+  font-family: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  color: var(--text-dark);
+  line-height: 1.5;
+  background: #fff;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+
+/* Header area */
+.site-header {
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 8px;
+}
+
+.project-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: #2b2b2b;
+  margin-bottom: 12px;
+}
+
+/* Hero band */
+.hero {
+  background: var(--brand-green);
+  max-width: calc(var(--max-width));
+  margin: 0 auto;
+  padding: 18px 24px;
+  border-radius: 2px;
+  box-shadow: none;
+}
+.hero-title {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  text-align: center;
+  margin: 0;
+}
+
+/* Main container for content */
+.container {
+  max-width: var(--max-width);
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+/* Posts / cards */
+.posts {
+  display: grid;
+  gap: 36px;
+  align-items: start;
+}
+
+ .post-card {
+  border: 3px solid var(--border);
+  padding: 28px 20px;
+  background: white;
+  box-shadow: none;
+  border-radius: 2px;
+  text-align: center;
+}
+
+.post-title {
+  color: var(--brand-green);
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.post-excerpt {
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0 auto;
+  max-width: 420px;
+}
+
+/* Footer */
+.site-footer {
+  background: var(--footer-bg);
+  color: #fff;
+  padding: 14px 16px;
+  margin: 56px 0 20px;
+  text-align: center;
+  max-width: var(--max-width);
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 2px;
+  font-size: 14px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 520px) {
+  .hero-title { font-size: 20px; padding: 0; }
+  .post-excerpt { font-size: 15px; max-width: 100%; padding: 0 6px; }
+  .post-card { padding: 20px 12px; border-width: 2px; }
+  .container { margin: 24px auto; padding: 0 12px; }
+} 
