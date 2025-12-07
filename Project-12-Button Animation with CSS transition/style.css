@@ -1,0 +1,17 @@
+/* Click shrink animation */
+.animated-button.clicked {
+  animation: clickShrink 0.2s ease forwards;
+}
+
+/* Keyframes for click animation */
+@keyframes clickShrink {
+  0% {
+    transform: scale(1.1); /* if hovered */
+  }
+  50% {
+    transform: scale(0.9);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
