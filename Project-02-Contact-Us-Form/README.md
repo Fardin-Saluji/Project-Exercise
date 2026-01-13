@@ -11,4 +11,4 @@ HTML
 HTML form creation,
 Input elements and attributes,
 Basic form validation,
-User-friendly and accessible form design,
+User-friendly and accessible form design.
