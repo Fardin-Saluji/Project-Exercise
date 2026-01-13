@@ -5,10 +5,13 @@ This project demonstrates how to build a responsive photo gallery using HTML and
 The photo gallery displays images of varying sizes arranged in a CSS Grid layout. Media queries are used to adjust the number of columns based on screen width, ensuring the gallery looks well-organized and visually appealing on desktops, tablets, and mobile devices.
 
 🛠️ Topics Covered:-
-HTML,
+
+HTML
+
 CSS
 
 📚 Skills Covered:-
+
 CSS Grid layout management
 
 Media queries for responsive design
