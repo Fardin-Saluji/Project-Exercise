@@ -8,6 +8,6 @@ The blog webpage includes headings, paragraphs, ordered and unordered lists, lin
 HTML
 
 📚 Skills Covered:-
-HTML document structure
-Using semantic HTML elements
-Embedding images and links
+HTML document structure,
+Using semantic HTML elements,
+Embedding images and links.
