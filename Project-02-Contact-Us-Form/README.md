@@ -8,7 +8,7 @@ The form includes input fields for name, email, phone number, and a message, alo
 HTML
 
 📚 Skills Covered;-
-HTML form creation
-Input elements and attributes
-Basic form validation
-User-friendly and accessible form design
+HTML form creation,
+Input elements and attributes,
+Basic form validation,
+User-friendly and accessible form design,
