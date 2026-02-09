@@ -1,23 +1,78 @@
-✅ Project Exercise 11: To-Do List App with Event Handling
+# ✅ To-Do List App (Frontend Project)
 
-This project demonstrates how to build a simple to-do list application using JavaScript and DOM manipulation to manage user interactions.
+A simple and clean **To-Do List Application** built using **HTML, CSS, and JavaScript**.
+This project focuses on strengthening core frontend fundamentals like DOM manipulation, event handling, and dynamic UI updates without using any framework.
 
-📌 Description
+---
 
-The application allows users to add new tasks, mark tasks as completed, and remove tasks from the list. JavaScript event listeners are used to handle user actions such as adding tasks, toggling task completion, and deleting tasks. The DOM is dynamically updated to reflect changes in the user interface.
+## 🚀 Live Demo
+https://todo-list-app-with-event-handling.vercel.app
 
-🛠️ Topics Covered
+---
 
-JavaScript
+## 💻 GitHub Repository
+https://github.com/Fardin-Saluji/Project-Exercise
 
-DOM
+---
 
-📚 Skills Covered
+## 🛠 Tech Stack
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Vercel (Deployment)
 
-Event listeners
+---
 
-Dynamic DOM manipulation
+## ✨ Features
+- Add new tasks
+- Delete tasks
+- Real-time UI updates
+- Simple and clean user interface
+- JavaScript event handling
+- DOM manipulation without any framework
 
-Handling user interactions
+---
 
-Updating UI based on user actions
+## 📁 Project Folder Structure
+
+```
+to-do-list-app/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+---
+
+## 📚 Learning Outcomes
+From this project, I learned and practiced:
+- Structuring a frontend project using HTML
+- Styling layouts and components using CSS
+- Handling user interactions using JavaScript events
+- Manipulating the DOM for dynamic UI updates
+- Writing clean and readable JavaScript code
+- Improving logic-building skills with small projects
+- Understanding how frontend applications work without frameworks
+- Deploying frontend projects using Vercel
+
+---
+
+You can also use **Live Server** in VS Code.
+
+---
+
+## 👨‍💻 Author
+**Fardin Saluji**  
+Frontend / Full Stack Web Developer (Learning Phase)  
+📍 Mumbai, Maharashtra  
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/fardinsaluji/
+
+---
+
+## 🤝 Feedback
+Feedback and suggestions are always welcome.
+Feel free to connect with me on LinkedIn 🙂
