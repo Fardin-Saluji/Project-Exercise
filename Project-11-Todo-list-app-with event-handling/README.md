@@ -10,11 +10,6 @@ https://todo-list-app-with-event-handling.vercel.app
 
 ---
 
-## 💻 GitHub Repository
-https://github.com/Fardin-Saluji/Project-Exercise
-
----
-
 ## 🛠 Tech Stack
 - HTML5
 - CSS3
