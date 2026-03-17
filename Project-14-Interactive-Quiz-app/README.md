@@ -1,27 +1,97 @@
-❓ Project Exercise 14: Interactive Quiz App
+# 🚀 Interactive Quiz App
 
-This project demonstrates how to build a simple interactive quiz application using HTML, CSS, and JavaScript.
+A simple and interactive Quiz Application built using **HTML, CSS, and JavaScript**.  
+This app allows users to answer multiple-choice questions and instantly see their final score.
 
-📌 Description
+---
 
-The quiz app presents multiple-choice questions to the user. Users select their answers and submit the quiz. JavaScript is used to handle user interactions, check the selected answers, calculate the total score, and display the final result. DOM manipulation is applied to dynamically update questions and show the score after submission.
+## 🌐 Live Demo
+👉 https://interactive-quiz-app-ten.vercel.app/
 
-🛠️ Topics Covered
+---
 
-HTML
+## 💻 GitHub Repository
+👉 https://github.com/Fardin-Saluji/Project-Exercise
 
-CSS
+---
 
-JavaScript
+## 📌 Features
 
-DOM
+- 🧠 Multiple-choice quiz questions  
+- ⚡ Real-time score calculation  
+- 🔄 Dynamic question rendering using DOM  
+- 👆 User interaction handling (click events)  
+- 📊 Final score display after submission  
+- 🎯 Clean and responsive UI  
 
-📚 Skills Covered
+---
 
-DOM manipulation
+## 🛠️ Tech Stack
 
-Event handling
+- HTML  
+- CSS  
+- JavaScript  
+- DOM Manipulation  
 
-JavaScript functions and conditionals
+---
 
-Dynamic content updates based on user input
+## 📂 Project Structure (Vertical)
+
+```
+Project-Exercise/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+```
+
+---
+
+## ⚙️ How to Run Locally
+
+1. Clone the repository:
+```
+git clone https://github.com/Fardin-Saluji/Project-Exercise.git
+```
+
+2. Open the project folder:
+```
+cd Project-Exercise
+```
+
+3. Open `index.html` in your browser.
+
+---
+
+## 📚 Learning Outcomes
+
+- 📌 Learned DOM manipulation in JavaScript  
+- 📌 Improved understanding of event handling  
+- 📌 Built interactive UI with real-time updates  
+- 📌 Implemented quiz logic and score calculation  
+- 📌 Strengthened debugging and problem-solving skills  
+
+---
+
+## 🚀 Future Improvements
+
+- ⏱️ Add timer functionality  
+- 📈 Add progress bar  
+- 🔐 Add user login system  
+- 🧾 Store results in database  
+- 📱 Improve mobile responsiveness  
+
+---
+
+## 🤝 Feedback
+
+If you have any suggestions or improvements, feel free to open an issue or contribute!
+
+---
+
+## ⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub!
+
+---
